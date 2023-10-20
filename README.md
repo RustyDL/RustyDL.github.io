@@ -12,7 +12,7 @@ Welcome to my personal website! This site serves as a platform to showcase my ab
 
 1. **Home Page** Brief Bio, profile pictures and A contact form that allows YOU "the users" to get in touch with me.
 
-2. **About Page:** An about page where I share a snapshot about myself, my background, and how I got here.
+2. **About Me:** An about page where I share a snapshot about myself, my background, and how I got here.
 
 3. **Portfolio Page:** A portfolio page showcasing past project, Digital Art, and work.
 
