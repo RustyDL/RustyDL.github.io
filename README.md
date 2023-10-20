@@ -1,12 +1,11 @@
-# pwebsite
 # Personal Website
 
 Welcome to my personal website! This site serves as a platform to showcase my about me, skills, portfolio and provide a way for visitors to contact me.
 
 ## Table of Contents
 
-- [Home Page](#home-page)
-- [About Me](#about-me)
+- [Home Page](#index)
+- [About Me](#aboutme)
 - [Portfolio](#portfolio)
 
 ## Features
