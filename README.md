@@ -4,9 +4,9 @@ Welcome to my personal website! This site serves as a platform to showcase my ab
 
 ## Table of Contents
 
-- [Home Page](#index)
-- [About Me](#aboutme)
-- [Portfolio](#portfolio)
+- [Home Page](#index.html)
+- [About Me](#about.html)
+- [Portfolio](#portfolio.html)
 
 ## Features
 
@@ -28,4 +28,5 @@ Welcome to my personal website! This site serves as a platform to showcase my ab
 To view the website, simply navigate to [https://RustyDL.github.io](https://RustyDL.github.io) in your web browser.
 
 Thank you for visiting my personal website! If you have any questions or would like to get in touch, please use the contact form on the website.
+
 # RustyDL.github.io
